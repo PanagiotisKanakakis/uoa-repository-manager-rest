@@ -1,0 +1,9 @@
+eu/dnetlib/repo/manager/api/application/rest/RestService.class
+eu/dnetlib/repo/manager/api/application/rest/ValidatorApiImpl.class
+eu/dnetlib/repo/manager/api/application/rest/RepositoryApiImpl.class
+eu/dnetlib/repo/manager/api/application/utils/Utils.class
+eu/dnetlib/repo/manager/api/application/rest/RepositoryApi.class
+eu/dnetlib/repo/manager/api/application/rest/ValidatorApi.class
+eu/dnetlib/repo/manager/api/application/exception/RepositoryException.class
+eu/dnetlib/repo/manager/api/application/utils/Constants.class
+eu/dnetlib/repo/manager/api/main/Application.class

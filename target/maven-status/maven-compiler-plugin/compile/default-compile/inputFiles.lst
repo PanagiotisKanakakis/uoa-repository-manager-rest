@@ -1,0 +1,9 @@
+/home/panagiotis/projects/uoa-repository/uoa-repository-manager-rest/src/main/java/eu/dnetlib/repo/manager/api/application/rest/RestService.java
+/home/panagiotis/projects/uoa-repository/uoa-repository-manager-rest/src/main/java/eu/dnetlib/repo/manager/api/application/utils/Constants.java
+/home/panagiotis/projects/uoa-repository/uoa-repository-manager-rest/src/main/java/eu/dnetlib/repo/manager/api/main/Application.java
+/home/panagiotis/projects/uoa-repository/uoa-repository-manager-rest/src/main/java/eu/dnetlib/repo/manager/api/application/utils/Utils.java
+/home/panagiotis/projects/uoa-repository/uoa-repository-manager-rest/src/main/java/eu/dnetlib/repo/manager/api/application/rest/RepositoryApiImpl.java
+/home/panagiotis/projects/uoa-repository/uoa-repository-manager-rest/src/main/java/eu/dnetlib/repo/manager/api/application/rest/ValidatorApi.java
+/home/panagiotis/projects/uoa-repository/uoa-repository-manager-rest/src/main/java/eu/dnetlib/repo/manager/api/application/rest/ValidatorApiImpl.java
+/home/panagiotis/projects/uoa-repository/uoa-repository-manager-rest/src/main/java/eu/dnetlib/repo/manager/api/application/rest/RepositoryApi.java
+/home/panagiotis/projects/uoa-repository/uoa-repository-manager-rest/src/main/java/eu/dnetlib/repo/manager/api/application/exception/RepositoryException.java

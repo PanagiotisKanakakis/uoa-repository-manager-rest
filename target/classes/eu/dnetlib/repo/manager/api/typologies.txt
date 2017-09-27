@@ -1,0 +1,42 @@
+CONTENTdm
+Digibib
+Digital Commons
+DigiTool
+DIVA
+Diva-Portal
+dLibra
+Doks
+Drupal
+DSpace
+Earmas
+EPrints
+ETD
+ETD-db
+Fedora
+Fez
+Greenstone
+HAL
+invenio
+MyCoRe
+Open Repository
+OPUS
+Pica-Verbundkatalog
+Proprietary Software
+PUMA
+PURE
+SciELO
+SFIX
+VITAL
+VTOAI
+WEKO
+XooNIps
+------------------------
+OJS
+HyperJournal
+ePubTk
+GAPworks
+DPubS
+E-Journal
+------------------------
+[Other]
+
